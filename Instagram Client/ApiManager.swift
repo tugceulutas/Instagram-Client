@@ -1,10 +1,4 @@
-//
-//  ApiManager.swift
-//  Instagram Client
-//
-//  Created by yusuf_kildan on 07/05/16.
-//  Copyright © 2016 yusuf_kildan. All rights reserved.
-//
+//Tugçe Ulutas
 
 import Foundation
 import Alamofire
